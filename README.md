@@ -8,3 +8,6 @@
 3. get it together
 4. you all should apply to be the guy at the airport that waves the signals on the landing strip
  nowwwww i have to merge f1 f2 and f3 together with main cmon
+5. i am adding this and its from branch f3
+6. it will look immaculate
+
